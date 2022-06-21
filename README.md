@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RyanBattista1997
-- 👀 I’m interested in ... Front End
-- 🌱 I’m currently learning ... react
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Front-End / Full-Stack
+- 🌱 I’m currently learning ... redux / .NET stack
 - 📫 How to reach me ... ryanbattista58@gmail.com
 
 <!---
