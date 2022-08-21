@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanBattista1997
 - 👀 I’m interested in ... Front-End / Full-Stack
-- 🌱 I’m currently learning ... redux / .NET stack
+- 🌱 I’m currently learning ... MERN stack
 - 📫 How to reach me ... ryanbattista58@gmail.com
 
 <!---
